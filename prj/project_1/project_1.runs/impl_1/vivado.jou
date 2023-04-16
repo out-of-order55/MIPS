@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Apr 16 09:47:08 2023
+# Process ID: 21420
+# Current directory: E:/MIPS/work/prj/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log pc_reg.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pc_reg.tcl -notrace
+# Log file: E:/MIPS/work/prj/project_1/project_1.runs/impl_1/pc_reg.vdi
+# Journal file: E:/MIPS/work/prj/project_1/project_1.runs/impl_1\vivado.jou
+# Running On: gb, OS: Windows, CPU Frequency: 2400 MHz, CPU Physical cores: 4, Host memory: 17096 MB
+#-----------------------------------------------------------
+source pc_reg.tcl -notrace
